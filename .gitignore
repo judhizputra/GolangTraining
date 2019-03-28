@@ -10,3 +10,18 @@
 
 # Output of the go coverage tool, specifically when used with LiteIDE
 *.out
+
+# Others
+node_modules/
+bower_components/
+.tmp
+.sass-cache
+builds/**/images/*
+*.ogg
+*.np3
+*.mp4
+*.png
+*.jpeg
+
+# Security / SSL
+*.pem
